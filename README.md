@@ -1,6 +1,6 @@
 # textgram
 
-A simple text-based data visualisation library.
+A simple text-based data visualisation library. WIP.
 
 ```
 P(X)
